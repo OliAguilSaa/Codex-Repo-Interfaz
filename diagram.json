@@ -7,7 +7,7 @@
     {
       "type": "wokwi-resistor",
       "id": "rp1",
-      "top": 349.55,
+      "top": 359.55,
       "left": 19.2,
       "attrs": { "value": "1000" }
     },
